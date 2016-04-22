@@ -1,6 +1,6 @@
-# Compass
+# gpsWaypointer
 
-A simple HTML5 [compass web app](https://lamplightdev.github.io/compass) that's offline capable.
+A simple HTML5 [gps waypoint web app](https://bitschubse.github.io/gpsWaypointer) based on [lamplightdev's HTML5 Compass](https://lamplightdev.github.io/compass)
 
 Makes use of the HTML5 Location, Device Orientation, Screen Orientation, Screen Lock and Fullscreen APIs.
 
